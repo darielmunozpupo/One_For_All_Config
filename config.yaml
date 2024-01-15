@@ -1,1 +1,10 @@
 # STA ES LA CONFIGURACION DE RED PARA EL PROYECTO "ONE FOR ALL"
+Ludox:
+  IP: 10.96.66.66
+  Puerto: 5000
+  UUID: ""
+
+# One_For_All:
+#   IP: ""
+#   Puerto: 0
+#   UUID: ""
